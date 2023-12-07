@@ -1,0 +1,1234 @@
+{
+  "_id": {
+    "$oid": "654dfbd3dd98d04a9a7c0ebe"
+  },
+  "products": [
+    {
+      "title": "2780 Flip | Unlocked | Verizon, AT&T, T-Mobile | Blue",
+      "url": "https://www.amazon.com/Nokia-2780-Unlocked-Verizon-T-Mobile/dp/B0BLD393H7/ref=sr_1_1?keywords=nokia&qid=1699609543&sr=8-1",
+      "price": {
+        "$numberDouble": "89.73"
+      },
+      "image": "https://m.media-amazon.com/images/I/61RiO719umL._AC_UY218_.jpg",
+      "competitor": "Amazon"
+    },
+    {
+      "title": "105 4G | GSM Unlocked Mobile Phone | Volte | Black | International Version | Not AT&T/Cricket/Verizon Compatible",
+      "url": "https://www.amazon.com/Nokia-Unlocked-International-Version-Compatible/dp/B09RQ5VLGL/ref=sr_1_2?keywords=nokia&qid=1699609543&sr=8-2",
+      "price": {
+        "$numberDouble": "34.99"
+      },
+      "image": "https://m.media-amazon.com/images/I/4105xxKGWWL._AC_UY218_.jpg",
+      "competitor": "Amazon"
+    },
+    {
+      "title": "225 | GSM Unlocked Mobile Phone | 4G | Blue",
+      "url": "https://www.amazon.com/Nokia-Unlocked-Cell-Phone-Blue/dp/B08Q1RN311/ref=sr_1_3?keywords=nokia&qid=1699609543&sr=8-3",
+      "price": {
+        "$numberDouble": "48.99"
+      },
+      "image": "https://m.media-amazon.com/images/I/61oyW1b3j2L._AC_UY218_.jpg",
+      "competitor": "Amazon"
+    },
+    {
+      "title": "6300 4G | Unlocked | Dual SIM | WiFi Hotspot | Social Apps | Google Maps and Assistant | Cyan Green",
+      "url": "https://www.amazon.com/Nokia-Unlocked-Hotspot-Social-Assistant/dp/B0939D9FR3/ref=sr_1_4?keywords=nokia&qid=1699609543&sr=8-4",
+      "price": {
+        "$numberInt": "69"
+      },
+      "image": "https://m.media-amazon.com/images/I/61jrPNJwjNS._AC_UY218_.jpg",
+      "competitor": "Amazon"
+    },
+    {
+      "title": "106 Single Sim (2018) TA-1190 Dual-Band (850/1900) Factory GSM Unlocked Feature Phone (International Model)",
+      "url": "https://www.amazon.com/Nokia-TA-1190-Dual-Band-Unlocked-International/dp/B07VHRFGV2/ref=sr_1_5?keywords=nokia&qid=1699609543&sr=8-5",
+      "price": {
+        "$numberDouble": "34.99"
+      },
+      "image": "https://m.media-amazon.com/images/I/51tgESY0moL._AC_UY218_.jpg",
+      "competitor": "Amazon"
+    },
+    {
+      "title": "G10 | Android 11 | Unlocked Smartphone | 3-Day Battery | Dual SIM | US Version | 3/32GB | 6.52-Inch Screen | 13MP Triple Camera | Polar Night",
+      "url": "https://www.amazon.com/Nokia-Android-Unlocked-Smartphone-6-52-Inch/dp/B093QPTSK7/ref=sr_1_6?keywords=nokia&qid=1699609543&sr=8-6",
+      "price": {
+        "$numberDouble": "119.5"
+      },
+      "image": "https://m.media-amazon.com/images/I/71Ptb2ttfaS._AC_UY218_.jpg",
+      "competitor": "Amazon"
+    },
+    {
+      "title": "G100 | Verizon, T-Mobile, AT&T | Android 12 | Unlocked Smartphone | 3-Day Battery | US Version | 4/128GB | 6.52-Inch Screen | 13MP Triple Camera | Polar Night",
+      "url": "https://www.amazon.com/Nokia-T-Mobile-Unlocked-Smartphone-6-52-Inch/dp/B0BBWDM8MC/ref=sr_1_7?keywords=nokia&qid=1699609543&sr=8-7",
+      "price": {
+        "$numberDouble": "129.96"
+      },
+      "image": "https://m.media-amazon.com/images/I/61+uV+vv6nL._AC_UY218_.jpg",
+      "competitor": "Amazon"
+    },
+    {
+      "title": "110 4G | GSM Unlocked Mobile Phone | Volte | Black | International Version | Not AT&T/Cricket/Verizon Compatible",
+      "url": "https://www.amazon.com/Nokia-Unlocked-Worldwide-Cricket-Verizon/dp/B09G782SXL/ref=sr_1_8?keywords=nokia&qid=1699609543&sr=8-8",
+      "price": {
+        "$numberDouble": "39.99"
+      },
+      "image": "https://m.media-amazon.com/images/I/416atJXyYCL._AC_UY218_.jpg",
+      "competitor": "Amazon"
+    },
+    {
+      "title": "XR21 5G | Android 12 | Unlocked Smartphone | Dual SIM | US Version | 6/128GB | 6.49-Inch Screen | 64MP Dual Camera | Midnight Black",
+      "url": "https://www.amazon.com/Nokia-Unlocked-Smartphone-6-49-Inch-Midnight/dp/B0C9NXM214/ref=sr_1_9?keywords=nokia&qid=1699609543&sr=8-9",
+      "price": {
+        "$numberDouble": "499.99"
+      },
+      "image": "https://m.media-amazon.com/images/I/515UqmMBPsL._AC_UY218_.jpg",
+      "competitor": "Amazon"
+    },
+    {
+      "title": "XR20 5G | Android 11 | Unlocked Smartphone | Dual SIM | US Version | 6/128GB | 6.67-Inch Screen | 48MP Dual Camera | Granite",
+      "url": "https://www.amazon.com/Nokia-Unlocked-Smartphone-6-67-Inch-Charcoal/dp/B09DJ2P1SF/ref=sr_1_10?keywords=nokia&qid=1699609543&sr=8-10",
+      "price": {
+        "$numberDouble": "349.99"
+      },
+      "image": "https://m.media-amazon.com/images/I/613-P628I6L._AC_UY218_.jpg",
+      "competitor": "Amazon"
+    },
+    {
+      "title": "C21 Plus | Android 11 (Go Edition) | Unlocked GSM Smartphone | 2-Day Battery | Dual SIM | 2/64GB | 6.52-Inch Screen | Cyan | Not Compatible with Verizon or AT&T",
+      "url": "https://www.amazon.com/Nokia-Android-Unlocked-Smartphone-6-52-Inch/dp/B0C2T3CDGJ/ref=sr_1_11?keywords=nokia&qid=1699609543&sr=8-11",
+      "price": {
+        "$numberInt": "99"
+      },
+      "image": "https://m.media-amazon.com/images/I/71fm+hZPqQL._AC_UY218_.jpg",
+      "competitor": "Amazon"
+    },
+    {
+      "title": "C01 Plus | Android 11 (Go Edition) | Unlocked Smartphone | 2-Day Battery | 1/32GB | 6.52-Inch Screen | Dark Blue",
+      "url": "https://www.amazon.com/Nokia-Factory-Unlocked-Android-Verizon/dp/B09CBSS3BX/ref=sr_1_12?keywords=nokia&qid=1699609543&sr=8-12",
+      "price": {
+        "$numberInt": "75"
+      },
+      "image": "https://m.media-amazon.com/images/I/61MHS-Tga4L._AC_UY218_.jpg",
+      "competitor": "Amazon"
+    },
+    {
+      "title": "G50 5G | Android 11 | Unlocked Smartphone | US Version | 4/128GB | 6.82-Inch Screen | 48MP Triple Camera | Ocean Blue",
+      "url": "https://www.amazon.com/Nokia-Android-Unlocked-Smartphone-6-82-Inch/dp/B09GW969LH/ref=sr_1_13?keywords=nokia&qid=1699609543&sr=8-13",
+      "price": {
+        "$numberDouble": "244.87"
+      },
+      "image": "https://m.media-amazon.com/images/I/51vf1R1wS9L._AC_UY218_.jpg",
+      "competitor": "Amazon"
+    },
+    {
+      "title": "Essential Wireless Headphones - Universal Bluetooth - 40 Hours Playback - Soft Leather Over Ear with Foldable Headband,Black",
+      "url": "https://www.amazon.com/Nokia-Essential-Wireless-Headphones-Universal/dp/B08PBZ8JR4/ref=sr_1_14?keywords=nokia&qid=1699609543&sr=8-14",
+      "price": {
+        "$numberDouble": "49.99"
+      },
+      "image": "https://m.media-amazon.com/images/I/71Bbs7U9caL._AC_UY218_.jpg",
+      "competitor": "Amazon"
+    },
+    {
+      "title": "C20 | Android 11 (Go Edition) | 2-Day Battery | Dual SIM | 2/32GB | 6.52-Inch Screen | Dark Blue",
+      "url": "https://www.amazon.com/Nokia-Factory-Unlocked-TA-1339-Android/dp/B09DR9DB4P/ref=sr_1_15?keywords=nokia&qid=1699609543&sr=8-15",
+      "price": {
+        "$numberDouble": "89.99"
+      },
+      "image": "https://m.media-amazon.com/images/I/81H05Ciz-WS._AC_UY218_.jpg",
+      "competitor": "Amazon"
+    },
+    {
+      "title": "C300 | Verizon, T-Mobile, AT&T | Android 12 | Unlocked Smartphone | 3-Day Battery | US Version | 3/32GB | 6.52-Inch Screen | 13MP Triple Camera | Ocean Blue",
+      "url": "https://www.amazon.com/Nokia-T-Mobile-Unlocked-Smartphone-6-52-Inch/dp/B0C92C436C/ref=sr_1_16?keywords=nokia&qid=1699609543&sr=8-16",
+      "price": {
+        "$numberDouble": "139.99"
+      },
+      "image": "https://m.media-amazon.com/images/I/61LJGYCFFQL._AC_UY218_.jpg",
+      "competitor": "Amazon"
+    },
+    {
+      "title": "New ListingNokia 1.3 TA-1207 - Charcoal Colored  (Unlocked)",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberInt": "35"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/JVMAAOSwgudlEcIY/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia 3310 Navy blue Unlocked 2G GSM 900/1800 Mobile Phone (with Snake II Game)",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberInt": "21"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/jnMAAOSweH5jsCbe/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia 8 V 5G UW TA-1257 64GB Gray Verizon & Unlocked GSM Android Smartphone USED",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "78.95"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/xnQAAOSwp1tjfaXz/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia 110 32GB 2G Factory Unlocked Black Dual Sim Mobile Phone TA-1319 Brand New",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "25.99"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/9S4AAOSwGXhhbeLp/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Brand NEW Nokia N-Gage QD - With Tony Hawk Game (Cingular) Vintage collectible",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "128.01"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/00AAAOSwWmVksE1v/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia G50 5G Android 11 128GB Smartphone Unlocked 48MP Triple Camera Ocean Blue",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberInt": "72"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/zT8AAOSwCkFlRW-T/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "NEW Nokia G100 32GB Smartphone TA-1430 Nordic Blue 6.5\" HD+ 13MP Triple Camera",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberInt": "46"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/llIAAOSwk4JlRV0L/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia - 2780 Flip 512MB TA-1420 - Unlocked Phone 4G - Blue - VG",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberInt": "26"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/v28AAOSwC2tlAd58/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "NEW Nokia G100 6.5\" 32GB Smartphone TA-1430 Nordic Blue HD+ 13MP Triple Camera",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberInt": "30"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/CsgAAOSwKBFlRV1c/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia Lumia 920 Black AT&T Wireless 32GB Windows Touchscreen Smartphone",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "5.5"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/DcAAAOSwfEJlS-b2/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Original Nokia Lumia Unlocked 32GB 20MP 5.0\" Smartphone 4G LTE PARTS ONLY",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "1.25"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/BoQAAOSw2kplQTYE/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Original NOKIA 1100 Mobile Phone Unlocked Classic Game GSM Cheap Old Cellphone",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberInt": "23"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/IYsAAOSws-Ngq8ZR/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia Lumia 1020 (Unlocked) 4G LTE Smartphone - 32GB Yellow",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberInt": "65"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/nK4AAOSwcl1kemRm/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia 3310 Blue Unlocked 2G GSM 900/1800 Cellular Phone 1 Year WARRANTY USA!!!",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "28.99"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/mXsAAOSwaNRkktsi/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia G50 5G (TA-1390) 128GB 4GB RAM - Factory Unlocked Brand New",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "99.99"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/RusAAOSwjiplJwvr/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia Lumia 928 Black Verizon Wireless 32GB Windows Touchscreen Smartphone",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "9.99"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/JucAAOSw9jpkky7O/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia 106 Dual-Band GSM Unlocked Phone Brand New",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "29.99"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/2IQAAOSwE2hkUuev/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Original Unlocked Nokia 6600 - Light gray (Unlocked) Smartphone 1 year warranty",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberInt": "33"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/GboAAOSww6Ri-SuS/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia Flip Phone - UNLOCKED",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "59.99"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/3z4AAOSwKKFj9miq/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia 2720 V Flip TA-1295 Verizon Wireless 4G LTE KaiOS 4GB KaiOS Smartphone",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "49.99"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/WwIAAOSw1wtibybL/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "NEW Nokia 225 4G - TA-1282 - Black (Unlocked) LTE GSM Global Basic Cell Phone",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "49.99"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/cJsAAOSwefVhu6xv/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Original Nokia nm151 vintage slide phone cell phone mobile Japan edition",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberInt": "160"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/VbEAAOSwL6hg3DU7/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia X100 TA-1399 T-Mobile AT&T Unlocked 5G GSM 128GB Android Smartphone OB",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "139.99"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/d10AAOSw0AhkmYIi/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia 225 4G - TA-1282 - Black (Unlocked) 4G LTE GSM Global Basic Cell Phone",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "39.99"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/cJsAAOSwefVhu6xv/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia N Series N95 - Deep plum 3G GSM Wifi 5MP Slider Unlocked Classic Phone",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "30.99"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/5eIAAOSwZHNkL-oz/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Unlocked Original NOKIA N95 8GB Slider 3G 5MP Wifi GPS 2.8'' Black Mobile Phone",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "51.7"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/6c4AAOSwF~1jKAxb/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia G100 (N150DL) 32GB - Blue Smartphone TracFone Locked",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberInt": "34"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/mj4AAOSw~NVk~XVi/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia 3510i Cellphone Vintage International Blue - NEW IN BOX",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "31.49"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/OMsAAOSwxdxkOEwQ/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Original Nokia Asha 210 GSM Unlocked QWERTY Keyboard Wifi Dual SIM Cell Phone",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "29.44"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/M00AAOSwPDVb4dj1/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "New ListingNokia 2610 cell phone",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberInt": "20"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/M-cAAOSwdrJlTcFo/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "NEW Nokia G100 32GB Smartphone TA-1430 Nordic Blue 6.5\" HD+ 13MP Triple Camera",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberInt": "46"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/llIAAOSwk4JlRV0L/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia Lumia 1020 (Unlocked) 4G LTE Smartphone - 32GB Black",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberInt": "65"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/8IMAAOSwiO9kfgKb/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia G10 - 32GB - Dusk (Unlocked) (Dual SIM), Please Read",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "50.4"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/faIAAOSwcHxlS5yv/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "New ListingNokia Eseries E71 - Black (Unlocked) Smartphone Cib",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "84.99"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/JBwAAOSw84dlTfRp/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia G100 N150DL 32GB Nordic Blue",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberInt": "45"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/kncAAOSww2NlSoHX/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Original Nokia nm207 vintage slide phone cell phone mobile Japan docomo edition",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberInt": "330"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/9OEAAOSwACdkVNSd/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia 8 V 5G UW TA-1257 64GB Meteor Gray (Verizon) LTE WiFi Smartphone GREAT",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "79.95"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/xnQAAOSwp1tjfaXz/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia N Series N95 WIFI GPS 5MP 2.6'' WIFI MP4 3G Mobile Phone",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "89.99"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/p2gAAOSwXGtkwepp/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia C2 Tennen (TA-1218) 32GB Unlocked Blue Smartphone -Fair",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberInt": "35"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/dT0AAOSw0~1krCK0/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Original Nokia N Series N96 Mobile Phones Unlocked GSM/3G WIFI GPS 16GB 5MP JAVA",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "63.48"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/cjoAAOSwMsxkkq5e/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia 6300 (Unlocked) Cellular Phone",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberInt": "30"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/yPsAAOSwa31iHC23/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia ASHA 303 (International) 3G Smartphone Palestinian - NEW IN BOX",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "22.39"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/DZYAAOSwgBtktrSH/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia - 2780 Flip 512MB TA-1420 - Unlocked Phone 4G - Blue - VG",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberInt": "26"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/v28AAOSwC2tlAd58/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Original Nokia 3310 Blue Unlocked 2G GSM 900/1800 Good Quality Cellular Phone",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "11.66"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/4LQAAOSwGcVj6g~G/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Brand New Nokia N8 Unlocked 3G SmartPhone - Gray in Sealed Retail Box",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "249.99"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/cDcAAOSwehBh15yO/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia 6210 (International) Cell Phone GSM Black - Open Box",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "48.99"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/Tk8AAOSwZLJkd6sk/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia G50 5G (TA-1390) 128GB 4GB RAM - Factory Unlocked Open Box",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "139.99"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/4qMAAOSwNmVkvuOC/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia 3310",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberInt": "26"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/qMoAAOSwOKhiIIjb/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia G400 5G - Gray - 64GB - (Metro) - Smartphone - WORKS GREAT & FREE SHIPPING",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "19.99"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/xVUAAOSwagJlTCuN/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia G100 TA-1430 128GB GSM Unlocked Android Smartphone - Nordic Blue",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "119.98"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/OfoAAOSwaQxi89an/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Unlocked Nokia 2780 Flip TA-1420 2.8\" 1.77\" 4G 512MB 5MP 4G LTE WiFi Bluetooth",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "59.99"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/q7wAAOSwntFj4nBm/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "New ListingNokia 2780 Flip - 512MB - Blue (Unlocked) (Single SIM) Excellent condition!",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberInt": "5"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/2kgAAOSwAk1lQwl5/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia - 2780 Flip 512MB TA-1420 - Unlocked Phone 4G - Blue - VG",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "59.99"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/MaEAAOSw261lFvBq/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia Lumia 830 (TELUS - International) Smartphone - NEW",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "31.49"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/xkUAAOSwo3Nkd5c6/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Brand NEW Nokia N-Gage QD - With Tony Hawk Game (Cingular) Vintage collectible",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "128.01"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/00AAAOSwWmVksE1v/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Classic Nokia 6230i - 32MB - Silver (Unlocked) Mobile Phone",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberInt": "25"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/ZwUAAOSwaERjFr9l/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia 106 Dual-Band GSM Unlocked Phone Very Good",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "24.99"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/WgMAAOSw3IVkUugm/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia E72 Unlocked Phone Featuring GPS with Voice Navigation U.S. Version QWERTY",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "36.79"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/0YIAAOSw04VlLpEH/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia 1100 Mobile Phone Unlocked GSM900/1800MHz cheap cellphone +1 Year WARRANTY",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "14.55"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/svgAAOSwqQdjfGlE/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia 225 4G TA-1282 GSM Unlocked Phone, Blue, NIB",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberInt": "5"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/QgIAAOSw5d5lSvT4/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "original Nokia N Series N9-00 - 16GB Black Blue Red (Unlocked) Smartphone",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "47.66"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/fDIAAOSwG5dkHZ2b/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia TFNKN156DCPWP Tracfone C110, 32GB, Green-Prepaid Smartphone",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberInt": "36"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/XfYAAOSw63FknFIN/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Unlocked Original Nokia N8 3G WIFI GPS 12MP 3.5\" Touchscreen Symbian Smartphone",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberInt": "12"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/6jsAAOSwtP1lFoY-/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia 3310 Classic 2G GSM 900/1800 Unlocked Phone 1 Year WARRANTY USA Seller！！！",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "28.99"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/cEoAAOSwunRlMRPi/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia N-gage QD Game bluetooth multilingual GSM900/1800 Mobile phone 2.1\"",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "69.34"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/e2kAAOSwSclXLaRc/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia N8-00 - 16GB - Black (Unlocked)",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "44.9"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/KzsAAOSwc11jIaDr/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "NEW Nokia Lumia 521 - RM-917 - White (Metro PCS) GSM Windows Touch Smartphone",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "39.99"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/2XwAAOSwoudk-gEO/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Working Nokia 6.1 (TA-1045) 32GB GSM Unlocked Dual SIM Smartphone Q5334",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberInt": "45"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/io8AAOSwigtlS8wz/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia 640XL Black",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "12.99"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/-CgAAOSwhklkF1ld/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia 2780 Flip 4GB Blue Unlocked Single SIM G",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "42.3"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/ZqQAAOSw-6plS6k3/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia 1100 Mobile Phone Unlocked GSM900/1800MHz cheap cellphone +1 Year WARRANTY",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "19.15"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/qWgAAOSwAd5j5MYj/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "New ListingNokia G100 Unlocked TA-1430 - 128GB - Blue (Single SIM) (U) 161523",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "84.99"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/XI0AAOSwfj1lTQ-N/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Unlocked Original Nokia N Series N95 WIFI GPS 5MP 2.6'' WIFI MP4 3G Mobile Phone",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "45.57"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/fPwAAOSwGQJhLQnv/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia 3220 - Blue-white (Unlocked) Cellular Phone",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberInt": "26"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/nQ8AAOSwwKhiTlll/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "3057.Nokia 5310 Very Rare - For Collectors - Unlocked",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "24.99"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/iUIAAOSwCwVlSCEu/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia Venom (TA-1531) Unlocked - 6/128GB - 64MP - Dual Sim",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "149.99"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/KJAAAOSwMC5kyCma/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "NEW Original Nokia Asha 300 Unlocked 3G 5MP TouchScreen MP3 JAVA Mobile Phone",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "53.01"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/HUoAAOSwNnVkv3cX/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "Nokia G100 TA-1430 128GB Factory Unlocked Nordic Blue Used",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=nokia",
+      "price": {
+        "$numberDouble": "74.99"
+      },
+      "image": "https://i.ebayimg.com/thumbs/images/g/hM4AAOSwYxllPvXW/s-l300.jpg",
+      "competitor": "ebay"
+    },
+    {
+      "title": "NOKIA 2780 Flip TA-1420 GSM / Verizon Unlocked Flip Phone - Blue",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "89.98"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AAM8D221101135W8659.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia 225 | Unlocked | 4G Cell Phone | Black",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "54.98"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AW2VS2111151CZOOL95.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "GAMAKOO K50 Android 4G Unlocked Smartphone | Dual SIM | 128GB+4GB | 6.53\" HD+ Display | Octa-Core | 5380mAh Long Battery | Android 10.0 | US Version Cheap Cell Phone | Green",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "99.29"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AY3NS2305160FJWM035.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia G100 TA-1430 32GB GSM / Verizon Unlocked Android Smartphone - Nordic Blue",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "148.99"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/75-205-624-01.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia 225 4G TA-1282 GSM Unlocked Phone - Classic Blue",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "54.98"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/75-205-600-S01.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia G60 5G Dual-SIM 64GB ROM + 4GB RAM (Only GSM | No CDMA) Factory Unlocked 5G Smartphone (Ice) - International Version",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberInt": "485"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AEJWS2209131265T647.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia G60 5G Dual-SIM 64GB ROM + 4GB RAM (Only GSM | No CDMA) Factory Unlocked 5G Smartphone (Black) - International Version",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "354.95"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AEJWS220913122WL0C8.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia X30 5G Dual-Sim 256GB ROM + 8GB RAM (GSM only | No CDMA) Factory Unlocked 5G Smartphone (Cloudy Blue) - International Version",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "499.99"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/B4W3S23051819BP8Y99.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "GAMAKOO G40 4G Unlocked Cell Phone Dual SIM | 6.52\" HD+ Display | 32GB+3GB | Octa-Core | Android 10.0 | 4000mAh Long Battery | US Version Android Cheap Smartphone | Black",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "84.29"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AY3NS2305170DD8RX56.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia G60 5G 6.58\"IPS 128GB /6GB RAM 50MP Snapdragon 695 4500mAh Phone By FedEx",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "328.9"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/BK15S2310240MJ9XR35.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia C210 TA-1584 32GB GSM / CDMA Unlocked Android Smartphone - Grey",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "109.98"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AAM8D23092717LWRRC6.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "GAMAKOO K50 Unlocked Cell Phone 128GB+4GB Dual SIM 6.53\" HD+ Display | Android 10.0 | Octa-Core | 5380mAh Long Battery | US Version 4G Android Smartphone | Grey",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "99.29"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AY3NS2305160FJ89135.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia X10 5G TA-1332 Dual 128GB 6GB RAM Factory Unlocked (GSM Only | No CDMA - not Compatible with Verizon/Sprint) International Version - Snow",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "269.99"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/V5XYS2110217BEA7.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Q5 Flip 4G phone 3GB Ram + 32GB Rom smartphone",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberInt": "180"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/BK5WS2309110KVO9D06.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia G100 TA-1430 128GB GSM / Verizon Unlocked Android Smartphone - Nordic Blue",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "176.99"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/75-205-623-01.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia G22 Dual-SIM 128GB ROM + 4GB RAM (Only GSM | No CDMA) Factory Unlocked 4G/LTE Smartphone (Lagoon Blue) - International Version",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "229.99"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AEJWS2307130YSEN281.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "GAMAKOO G40 4G Unlocked Cell Phone Dual SIM | 6.52\" HD+ Display | 32GB+3GB | Octa-Core | Android 10.0 | 4000mAh Long Battery | US Version Android Cheap Smartphone | Blue",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "84.29"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AY3NS2305170DAYF500.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia G22 Dual-SIM 128GB ROM + 4GB RAM (Only GSM | No CDMA) Factory Unlocked 4G/LTE Smartphone (Meteor Grey) - International Version",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "229.99"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AEJWS2307130YSRYZ93.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "GAMAKOO K50 Unlocked Cell Phone 128GB+4GB Dual SIM 6.53\" HD+ Display | Android 10.0 | Octa-Core | 5380mAh Long Battery | US Version 4G Android Smartphone | Blue",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "97.59"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AY3NS2304240I0GEB93.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia XR20 Dual-SIM 128GB ROM + 6GB RAM (GSM Only | No CDMA) Factory Unlocked 5G Smartphone (Granite) - International Version",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "469.99"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/B4W3S23033015COOEC5.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia G100 TA-1430 128GB GSM Unlocked Android Smartphone - Nordic Blue",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "199.98"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AAM8D220811159QFEDE.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia XR20 Dual-Sim 128GB ROM + 6GB RAM (GSM | CDMA) Factory Unlocked 5G SmartPhone (Granite) - International Version",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "419.6"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AEJWS210825qcQC2.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia XR20 5G | Android 11 | Unlocked Smartphone | Dual SIM | US Version | 6/128GB | 6.67-Inch Screen | 48MP Dual Camera | Granite Cell Phone Smart",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "470.98"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A8X5S2207290VYY9R33.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia 2660 Flip Black Dual SIM 2.8\"TFT LCD 0.3MP FM radio 1450mAh Phone By FedEx",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "144.83"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/BK15S2310060AZ46MB9.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia 5.4 Dual-SIM 128GB ROM + 4GB RAM (GSM Only | No CDMA) Factory Unlocked 4G/LTE Smartphone (Polar Night) - International Version",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "478.73"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AEJWS210608fa4vt.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia 1.4 Dual-SIM 32GB ROM + 2GB RAM (GSM Only | No CDMA) Factory Unlocked 4G/LTE Smartphone (Charcoal) - International Version",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "198.57"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AEJWS210513V0xOR.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia 5710 XpressAudio 4G 2.4\"(TA-1498) White Built-in Wireless Earbuds Phone By FedEx",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "128.88"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/BK15S2310060GOOINCB.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia 2.4 Dual SIM 6.5\" 64GB 3GB RAM 13MP Octa-core 4500 mAh Phone By FedEx",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "225.57"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/BK15S2309260JYPGM34.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia 5310 Dual-SIM 16MB ROM + 8MB RAM (GSM Only | No CDMA) Factory Unlocked 2G Cell-Phone (White) - International Version",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberInt": "159"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AEJWS210709oKqOg.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia 2780 Flip TA-1420 GSM / Verizon Unlocked Flip Phone - Red",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "89.98"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AAM8D2301300ZA1BIC8.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia XR20 Dual-Sim 64GB ROM + 4GB RAM (GSM | CDMA) Factory Unlocked 5G SmartPhone (Ultra Blue) - International Version",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberInt": "485"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AEJWS2108029WaVX.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia G400 5G TA-1476 64GB GSM Unlocked Android Smartphone - Meteor Grey",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "266.97"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AAM8D22081018ITOA4B.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia T10 8.0\"IPS LCD WIFI + LTE 4/64GB 8MP Unisoc T606 5250mAh Tablet By FedEx",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "279.61"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/BK15S2309260H88FI49.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia 5 16GB (No CDMA, GSM only) Factory Unlocked 4G/LTE Smartphone - Matte Black",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberInt": "405"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AEJW_131793173761913217DjacYPrn7r.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia 8110 4G (2018) Single-SIM 4GB (No CDMA, GSM only) Factory Unlocked 4G/LTE Smartphone - Black",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberInt": "495"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AEJW_131862114279754297l6rmjJnyQH.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia 6 Single-SIM 32GB (No CDMA, GSM only) Factory Unlocked 4G/LTE Smartphone - Silver",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberInt": "475"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AEJW_131804288120652498Go9qReAbWC.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia 2660 Flip Dual-SIM 128MB ROM + 48MB RAM (GSM | CDMA) Factory Unlocked 4G/LTE Cellphone (Black) - International Version",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberInt": "285"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AEJWS22083010LQ1RA3.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia 3.1 Single-SIM 16GB 5.2-Inch Android (No CDMA, GSM only) Factory Unlocked 4G/LTE Smartphone - (Black/Chrome)",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberInt": "549"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AEJW_131931258331959393yNjh6zp70y.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia T20 10.4\" WIFI + LTE 4G 4/64GB ROM 8MP Unisoc T610 8200mAh Tablet By FedEx",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "313.62"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/BK15S2309250N0LEI03.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia G42 5G cell phone (Android 13/Qualcomm Snapdragon 480+ octa-core processor/4G+128G/Wi-Fi 6/IP52 dustproof and waterproof)Student mobile phone/elderly mobile phone/spare mobile phone",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberDouble": "399.99"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/BDCAS23081905B72O1E.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia 3 16GB (No CDMA, GSM only) Factory Unlocked 4G/LTE Smartphone - Tempered Blue",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberInt": "329"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AEJW_131793170706257686cDJa2zR7qK.jpg",
+      "competitor": "newegg"
+    },
+    {
+      "title": "Nokia G60 5G 6GB+128GB 6.58inch 120hz smartphone",
+      "url": "https://www.newegg.com/p/pl?d=nokia",
+      "price": {
+        "$numberInt": "397"
+      },
+      "image": "https://c1.neweggimages.com/ProductImageCompressAll300/BDCAS2209070HRA6BC9.jpg",
+      "competitor": "newegg"
+    }
+  ],
+  "input": {
+    "keyword": "nokia"
+  }
+}
